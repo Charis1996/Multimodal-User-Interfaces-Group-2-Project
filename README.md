@@ -1,3 +1,4 @@
+```
 # Multimodal-User-Interfaces-Group-Project
 
 Here are our ideas so far:
@@ -42,3 +43,4 @@ new actions using voice together with movement and other inputs.
 3. Our other option is to create a multimodal platformer game toolkit that combines the EEGs inputs and touch commands to move the character.
 
 We have only two group members so far so we need to find 3 additional CS students or combine with another team.
+```
